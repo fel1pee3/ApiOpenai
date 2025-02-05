@@ -12,8 +12,8 @@ Este é um pequeno projeto que utiliza a API da OpenAI para processar requisiç�
 
 ### 1. Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/seu-usuario/ApiOpenai.git
+cd ApiOpenai
 ```
 
 ### 2. Instalar Dependências
@@ -28,12 +28,12 @@ Edite o arquivo `index.js` e substitua `apiKey` pela sua chave da OpenAI.
 ```sh
 node index.js
 ```
-O servidor rodará na porta `3333`.
+O servidor rodará na porta `3000`.
 
 ## Como Testar a API
 Você pode utilizar o Postman ou cURL para testar a API:
 
-**Endpoint:** `POST http://localhost:3333/openai`
+**Endpoint:** `POST http://localhost:3000/openai`
 
 **Corpo da Requisição (JSON):**
 ```json
