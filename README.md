@@ -12,7 +12,7 @@ Este é um pequeno projeto que utiliza a API da OpenAI para processar requisiç�
 
 ### 1. Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/ApiOpenai.git
+git clone https://github.com/fel1pee3/ApiOpenai.git
 cd ApiOpenai
 ```
 
